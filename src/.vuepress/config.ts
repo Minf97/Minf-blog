@@ -3,9 +3,7 @@ import theme from "./theme.js";
 
 export default defineUserConfig({
   base: "/",
-
-  // base: "/github账号名称/网址名称/"
-
+  
   locales: {
     "/": {
       lang: "en-US",
