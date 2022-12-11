@@ -2,8 +2,8 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  base: "/",
-  
+  base: "/Minf-blog/",
+
   locales: {
     "/": {
       lang: "en-US",
